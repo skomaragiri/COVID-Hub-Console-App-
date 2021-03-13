@@ -1,0 +1,3 @@
+﻿  covid_hub.cpp
+C:\Users\vkoma\source\repos\covid_hub\covid_hub\covid_hub.cpp(16,22): error C3861: 'min': identifier not found
+C:\Users\vkoma\source\repos\covid_hub\covid_hub\covid_hub.cpp(17,23): error C3861: 'max': identifier not found
